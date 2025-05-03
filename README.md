@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kushagra-bhatnagar
+- 👀 I’m interested in Artificial Intelligence & Machine Learning
+- 🌱 I’m currently learning ML Engineering
+- 📫 How to reach me kushagrabhatnagar23@gmail.com
