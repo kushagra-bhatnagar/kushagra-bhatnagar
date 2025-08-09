@@ -45,5 +45,6 @@
 ---
 
 *Let’s push boundaries with code and curiosity! 💡*
+*You can find my resume here -  💡*
 
 ---
