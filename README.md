@@ -45,6 +45,6 @@
 ---
 
 *Let’s push boundaries with code and curiosity! 💡*
-*You can find my resume here -  💡*
+*You can find my resume here -  https://github.com/kushagra-bhatnagar/kushagra-bhatnagar/blob/main/kushu.pdf 💡*
 
 ---
